@@ -162,6 +162,9 @@ Ensure you have Python installed along with the required libraries listed in `re
     ```bash
     pip install -r requirements.txt
 
+# Contributing
+Contributions to this project are welcome. Please fork the repository and submit a pull request.
+
 # Author:
 
 ```bash
